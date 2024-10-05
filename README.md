@@ -13,18 +13,23 @@ The Multi-Language Invoice Extractor is built to streamline the process of manag
 
 **2.Intuitive User Interface Built with Streamlit:**
 
-Allows users to easily upload invoices.
-Displays uploaded invoices for visual confirmation.
-Provides a prompt input field for users to ask specific questions about the invoice.
-Deployed on Hugging Face:
-The application is hosted on Hugging Face, making it accessible from anywhere and ensuring smooth and scalable deployments.
+- Allows users to easily upload invoices.
+- Displays uploaded invoices for visual confirmation.
+- Provides a prompt input field for users to ask specific questions about the invoice.
+  
+**3. Deployed on Hugging Face:**
+- The application is hosted on Hugging Face, making it accessible from anywhere and ensuring smooth and scalable deployments.
 
-Intelligent Query Handling:
-Using Google Gemini as the LLM, users can ask complex, context-aware queries such as:
+**4.Intelligent Query Handling:**
+- Using Google Gemini as the LLM, users can ask complex, context-aware queries such as:
 
 “Give a summary about the invoice.”
+
 “Show only the item numbers.”
+
 “List the food items in the invoice.”
+
 “What is the total amount due?”
-Real-time Data Extraction and Responses:
-Extracted information is processed and displayed immediately on the interface, making it easy for users to understand invoice details and get answers to their queries.
+
+**5.Real-time Data Extraction and Responses:**
+- The extracted information is processed and displayed immediately on the interface, making it easy for users to understand invoice details and get answers to their queries.
