@@ -93,7 +93,7 @@ Enter a specific query related to the invoice in the prompt input field, such as
 Click on the “Submit” button. The system will process the query using Google Gemini and display the results in the response section.
 
 ## File Structure
-```python
+```
 Custom-Invoice-Extractor/
 │
 ├── app.py                    # Main application file (Streamlit interface)
