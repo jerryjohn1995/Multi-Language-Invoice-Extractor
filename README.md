@@ -124,7 +124,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For any questions or feedback, please feel free to reach out or connect on LinkedIn.
 
 🔗 Follow me on LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/jerryjohn1995/)
+
 🔗 Check out the project on GitHub: [GitHub Repository Link](https://github.com/jerryjohn1995/Multi-Language-Invoice-Extractor)
+
 🔗 Access the Deployed Application on Hugging Face: [Hugging Face Link](https://huggingface.co/spaces/jerryjohn1995/Multi_Language_Invoice_Extractor)
 
 
